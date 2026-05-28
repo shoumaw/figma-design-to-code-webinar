@@ -1,10 +1,6 @@
----
-applyTo: src/**
----
+# Component Library — src/
 
-# Component Library Instructions
-
-This package contains a React component library for the Figma Design to Code webinar.
+This directory contains the React component library for the Figma Design to Code webinar.
 
 ## Directory Structure
 
