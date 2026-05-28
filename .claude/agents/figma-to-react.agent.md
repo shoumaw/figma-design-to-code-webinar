@@ -54,7 +54,7 @@ If the user doesn't provide a Figma URL, ask for it before proceeding.
 
  Use the `figma-design-react` skill by reading the skill file and following its instructions exactly.
 
-1. Read the skill: `.github/skills/figma-design-react/SKILL.md`
+1. Read the skill: `.claude/skills/figma-design-react/SKILL.md`
 2. Follow the skill workflow to:
    - Fetch Figma design context via MCP
    - Analyze variants, properties, and component structure
@@ -90,7 +90,7 @@ If the user doesn't provide a Figma URL, ask for it before proceeding.
 
 Use the `figma-implement-component` skill by reading the skill file and following its instructions:
 
-1. Read the skill: `.github/skills/figma-implement-component/SKILL.md`
+1. Read the skill: `.claude/skills/figma-implement-component/SKILL.md`
 2. Read every step file listed in the skill's Table of Contents before writing any code
 3. Follow the skill workflow to:
    - Create modlet folder structure
@@ -130,7 +130,7 @@ Use the `figma-implement-component` skill by reading the skill file and followin
 
 Use the `figma-connect-component` skill to create Code Connect mapping:
 
-1. Read the skill: `.github/skills/figma-connect-component/SKILL.md`
+1. Read the skill: `.claude/skills/figma-connect-component/SKILL.md`
 2. Follow the skill workflow to:
    - Generate `{ComponentName}.figma.tsx`
    - Map React props to Figma variants
